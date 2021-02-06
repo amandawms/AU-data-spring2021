@@ -6,10 +6,10 @@ I would want to know if the official has a dog or cat and many of each, and whic
 
 To collect the data, I would start by scouring congressional social media accounts because those often feature pictures of pets, then I would confirm the final tally with each elected official's office. 
 
-Title | Name | Party | Num. Cats | Num. Dogs | Num. both | Num. Neither  
------ | ---- | ----- | --------- | --------- | --------- | ------------ 
-Senator | Rafael Warnock | D | 0 | 1 | 0 | 0
-Senator | Elizabeth Warren | D | 0 | 1 | 0 | 0
-Senator | Rafael Warnock | D | 0 | 1 | 0 | 0
-Senator | Rafael Warnock | D | 0 | 1 | 0 | 0
-Senator | Rafael Warnock | D | 0 | 1 | 0 | 0
+Title | Name | Party | Num. Cats | Num. Dogs | Num. Neither  
+----- | ---- | ----- | --------- | --------- | ------------ 
+Senator | Rafael Warnock | D | 0 | 1 | 0
+Senator | Elizabeth Warren | D | 0 | 1 | 0
+Representative | Glenn Grothman | R | 0 | 1 | 0
+Senator | Maise Hirono | D | 1 | 0 |  0
+Senator | Deb Fischer | R | 0 | 1 | 0
