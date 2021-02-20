@@ -2,7 +2,7 @@
 
 Despite only accounting for 4% of the DC apartment rental market, the city's top 11 largest landlords hold 12% of apartment rental properties in wards 7 and 8. This matters for a reason I will eventually figure out.  
 
-## Questions: 
+## Questions for [this DC Residential Property Tax Dataset](https://github.com/amandawms/AU-data-spring2021/blob/main/Assignment5dataset.csv): 
 
 ### What is the distribution of 2+ unit apartment buildings by ward? 
 
